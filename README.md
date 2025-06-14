@@ -62,11 +62,9 @@ Note: For Windows or macOS, download the installer from ZAP Download Page.
 Sample Workflow with OWASP ZAP
 ZAP Workflow
 
-(Replace image URLs with your own images)
-
 Connect with Me
-LinkedIn:**https://github.com/ej5ackson/ej5ackson.github.io.git**
-Email:**ej5ackson@gmail.com**
+Github:https://github.com/ej5ackson/ej5ackson.github.io.git
+Email:ej5ackson@gmail.com
 
 Let's Make the Web Safer Together! 🚀
 Note: Remember to replace placeholder links and images with your own branding. You can upload custom images to your GitHub repo and reference them locally, e.g., images/zap_logo.png.
